@@ -1,1 +1,1 @@
-print('Hello from dossier2')
+print('Hello from the folder 2')
