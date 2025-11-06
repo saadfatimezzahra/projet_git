@@ -1,1 +1,3 @@
-print('Hello from the folder 2')
+print('Hello from the 2 folder')
+print('Hello from the second folder')
+
